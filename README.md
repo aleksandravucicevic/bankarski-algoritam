@@ -1,4 +1,4 @@
-# Bankarski algoritam (Banker's algorithm)
+# Bankarski algoritam (Banker's Algorithm)
 Program prikazuje način rada _Bankarskog algoritma_, koji omogućava upravljanje alokacijom resursa i sprečavanje zastoja (deadlock) u sistemima sa više procesa i resursa. 
 Napisan je u C++ programskom jeziku i obezbjeđuje simulaciju dodjele resursa, provjeru sigurnog stanja i obradu zahtjeva procesa.
 
